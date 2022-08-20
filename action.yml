@@ -1,4 +1,4 @@
-name: 'Image Memory Source'
+name: 'Görünen Kaynak'
 description: 'Build a container image from source code'
 author: 'Red Hat'
 branding:
